@@ -17,18 +17,31 @@ Menus, dialogues, lock picking, map, inventory: a normal Xbox gamepad
   triggers = LT / RT, grips = LB / RB, A B X Y, both sticks, stick clicks = L3 / R3
 
 Gameplay:
+-
   Swing the right controller .... attack with the right-hand weapon (RT)
+  
   Swing the left controller ..... attack with the left-hand weapon (LT) when it holds a weapon (dual swords /
                                   daggers); with a shield or a free hand the left trigger blocks as normal
+                                  
   Right / left trigger .......... RT / LT
+  
   Right stick left / right ...... turn (snap or smooth, VR menu)
+  
   Right stick up ................ Y (jump)
+  
   Right stick down .............. d-pad down (holster weapon)
+  
   Y ............................. d-pad right
-  Left grip ..................... LB        Right grip ... RB
+  
+  Left grip ..................... LB 
+  
+  Right grip ... RB
   Hold the left grip (wheel) .... left stick = gamepad left stick, right stick = d-pad
+  
   Hold B (0.5 s) ................ d-pad left (tap B = B)
+  
   A, B, X, L3, R3 ............... A, B, X, L3, R3
+  
   Walking goes where you look (the hero looks where your head looks).
   Interacting (pick up, open, talk) aims where the RIGHT controller points (thin pointer ray).
   The health / stamina / mana bars float by the LEFT controller, the selected quick item (potions) and the
@@ -36,9 +49,13 @@ Gameplay:
   (Every mapping can be changed in [Controls] of the config.)
 
 Always:
+-
   A + B together ............... Start (menu)
+  
   X + Y together ............... Back / View
+  
   Tap both stick clicks ........ re-centre the view
+  
   Hold both stick clicks 1.2 s . VR settings menu (right stick = choose / change, A = select, B = close)
 
 Weapons in your hands
@@ -51,3 +68,11 @@ Adjust each weapon (saved per weapon and hand):
   (or VR menu > "Adjust the RIGHT / LEFT weapon")
   Hold the OTHER hand's grip to grab the weapon, move / turn it, let go.  A = save,  B = back to the default.
 The hero's first-person arms are hidden (VR hands show instead; VR menu > "Hide the first-person arms").
+
+
+Disable: to disable Mod rename winhttp.dll to winhttp.dll.bak or [VR Mod Manager](https://github.com/King-EJ/VR-Mod-Manager/releases/tag/VRModManager)
+
+
+LICENSES
+-
+Uses Astien's OpenXR bridge. Free, non-commercial.
